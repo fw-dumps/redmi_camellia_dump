@@ -1,0 +1,4 @@
+ro.mediatek.rsc_name=camelliain
+ro.sys.current_rsc_path=/system/etc/rsc/camelliain
+ro.product.current_rsc_path=/product/etc/rsc/camelliain
+ro.sys_ext.current_rsc_path=/system/system_ext/etc/rsc/camelliain

@@ -1,0 +1,3 @@
+#add to system property for SIM
+ro.miui.singlesim=1
+
