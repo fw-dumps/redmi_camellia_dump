@@ -1,0 +1,5 @@
+<!--
+    Input:
+        odm_manifest_camellia.xml
+-->
+<manifest version="4.0" type="device"/>
